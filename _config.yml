@@ -1,0 +1,28 @@
+name: 'Camonline '
+favicon: null
+layout_spectrum: 0.7522100459318608
+typography_spectrum: 0.20300995861180127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#080a0b'
+    - '#ffffff'
+    - '#95b8ce'
+    - '#465a3e'
+    - '#5cc903'
+  brandStrength: 0.25
+  lightness: 0.264043947448954
+  saturation: 0.702916847076267
+  rhythmicContrast: 0.5647618582006544
+purpose: []
